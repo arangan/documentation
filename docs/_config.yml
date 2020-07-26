@@ -19,8 +19,8 @@ title: Quick Reference
 #  A quick reference guide to commonly used tools like
 #  Git, Vim, Dos, Bash, PowerShell and other misc tools.
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/documentation" # the subpath of your site, e.g. /blog
+url: "https://arangan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
