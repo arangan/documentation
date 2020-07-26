@@ -26,7 +26,9 @@ url: "https://arangan.github.io" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# Using a regular theme.. minima removed
+# theme: minima
 plugins:
   - jekyll-feed
 
