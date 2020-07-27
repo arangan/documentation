@@ -19,7 +19,7 @@ Inside the folder where you want to init a new Jekyll project.
 - `bundle update`
 - `bundle install`
 
-### Modifications inside `_config_yml`
+### Modifications inside `_config.yml`
 
 Set the following values as mentioned below
 

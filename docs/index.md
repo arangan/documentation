@@ -5,6 +5,6 @@
 layout: home
 ---
 
-[Vim](vim)
+- [Vim](vim)
 
-[Git](git)
+- [Git](git)
