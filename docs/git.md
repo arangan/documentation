@@ -132,7 +132,8 @@ git log --graph --abbrev-commit --decorate --date=relative --all
 | Command | Description |
 | ------ | ------ |
 |`git remote show origin`| Shows the origin |
-|`git remote -v`||
+|`git remote add origin <URL>`| Point the current repository to a remote repository|
+|`git remote -v`| List the fetch and push URLs of the remote repository|
 |`git config --list`| List the configuration of the current repo , includes [--local|--global|--system]|
 |`git config --list --show-origin`| Can be used with [--local|--global|--system]|
 
